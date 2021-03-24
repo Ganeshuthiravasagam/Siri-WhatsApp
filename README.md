@@ -1,3 +1,5 @@
-### Siri-WhatsApp
+## Siri-WhatsApp
 
-Automatic whatsapp msg sender using siri 
+Automatic WhatsApp msg sender using siri 
+
+For the romantic female voice of siri I have imported a python library speech_recognition
