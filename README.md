@@ -20,5 +20,10 @@ Eventually to send the ✍ WhatsApp message **PyWhatKit** python library is init
 - Siri begins again her question 👩‍🏫 "To whom you need to send the message" 
 - Finally, the name and the statement is taken from the user and it gets implemented in a **Chrome Browser** 🤙
 
+## Tools Required
+- Python installed in your computer
+- Any IDE. In my case **PyCharm**
+- Your valuable time 
+
 
 
