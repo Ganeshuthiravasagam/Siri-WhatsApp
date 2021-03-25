@@ -1,6 +1,6 @@
-<!--<h3 align="center">
-![image](https://github.com/Ganeshuthiravasagam/Siri-WhatsApp/blob/main/Siri%20and%20whatsapp.jpeg)
-</h3> -->
+
+[image](https://github.com/Ganeshuthiravasagam/Siri-WhatsApp/blob/main/Siri%20and%20whatsapp.jpeg)
+
 
 
 # Siri-WhatsApp 👩
