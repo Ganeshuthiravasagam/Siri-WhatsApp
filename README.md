@@ -1,3 +1,8 @@
+<!--<h3 align="center">
+![image](https://github.com/Ganeshuthiravasagam/Siri-WhatsApp/blob/main/Siri%20and%20whatsapp.jpeg)
+</h3> -->
+
+
 # Siri-WhatsApp 👩
 
 Automatic WhatsApp message sender using Siri 
