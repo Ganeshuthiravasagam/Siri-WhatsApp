@@ -40,5 +40,6 @@ def get_msg():
     WhatsApp(name, receiver)
 get_msg()
 
+# To send messages continuously declare the below code
 # while True:
 #      get_msg()
