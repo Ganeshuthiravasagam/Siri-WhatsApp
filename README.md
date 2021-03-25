@@ -13,6 +13,11 @@ For the romantic💞 female voice of Siri, I have imported a python library **py
 
 Eventually to send the ✍ WhatsApp message **PyWhatKit** python library is initiated. 
 
+##Prerequisites
+
+- Basic knowledge of python and it's module 🤞
+- Make sure you have already logged in to your WhatsApp via browser ⚡
+
 ## How it functions?
 
 - Siri brings up 🙋‍♀️ herself asks for any support from her side.
