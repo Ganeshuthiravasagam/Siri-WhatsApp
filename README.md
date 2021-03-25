@@ -1,5 +1,5 @@
 
-[image](https://github.com/Ganeshuthiravasagam/Siri-WhatsApp/blob/main/Siri%20and%20whatsapp.jpeg)
+![image](https://github.com/Ganeshuthiravasagam/Siri-WhatsApp/blob/main/Siri%20and%20whatsapp.jpeg)
 
 
 
