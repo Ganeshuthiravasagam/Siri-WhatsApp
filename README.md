@@ -21,9 +21,10 @@ Eventually to send the ✍ WhatsApp message **PyWhatKit** python library is init
 - Finally, the name and the statement is taken from the user and it gets implemented in a **Chrome Browser** 🤙
 
 ## Tools Required
-- Python installed in your computer
+
+- Python installed on your computer 🖥
 - Any IDE. In my case **PyCharm**
-- Your valuable time 
+- Your valuable time 🌠
 
 
 
