@@ -13,6 +13,9 @@ For the romantic💞 female voice of Siri, I have imported a python library **py
 
 Eventually to send the ✍ WhatsApp message **PyWhatKit** python library is initiated. 
 
+## Project Demo
+[Click here to view project demo](https://www.linkedin.com/feed/update/urn:li:activity:6780795927784509440/)
+
 ## Prerequisites
 
 - Basic knowledge of python and it's module 🤞
